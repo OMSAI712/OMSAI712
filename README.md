@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm  Omsai</h1>
 <h3 align="center">¯\_(ツ)_/¯
 
-Programmer | Content Creator | Learner
+ui/ux Designer | Graphics DEsigner | Learner
 
 ?></h3>
 
